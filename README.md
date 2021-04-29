@@ -15,6 +15,5 @@ Create a requirements file:
 
 When cloning a repository to another computer:  
 `python -m venv venv`  
-
 `source venv/Scripts/activate`
 `pip install -r requirements.txt`
