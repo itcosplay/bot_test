@@ -14,6 +14,7 @@ Create a requirements file:
 `pip freeze > requirements.txt`
 
 When cloning a repository to another computer:  
-`python -m venv venv`
+`python -m venv venv`  
+
 `source venv/Scripts/activate`
 `pip install -r requirements.txt`
