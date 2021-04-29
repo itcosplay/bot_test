@@ -7,10 +7,10 @@ Create a virtual environment:
 Аctivate the virtual environment:  
 `source venv/Scripts/activate`
 
-Deactivate the virtual environment:
+Deactivate the virtual environment:  
 `deactivate`
 
-Create a requirements file:
+Create a requirements file:  
 `pip freeze > requirements.txt`
 
 When cloning a repository to another computer:  
