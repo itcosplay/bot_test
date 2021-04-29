@@ -1,20 +1,20 @@
 Testing defferent bot's ability
 =
-Virtual env and requirements
+Virtual environment and requirements
 -
-создать виртуальное окружение:  
+Create a virtual environment:  
 `python -m venv venv`
 
-активировть виртуальное окружение:  
+Аctivate the virtual environment:  
 `source venv/Scripts/activate`
 
-деактивировть:  
+Deactivate the virtual environment:
 `deactivate`
 
-создать файл списка зависимостей:
+Create a requirements file:
 `pip freeze > requirements.txt`
 
-при клонировани репозитория на другой компьютер или сервер:  
+When cloning a repository to another computer:  
 `python -m venv venv`
 `source venv/Scripts/activate`
 `pip install -r requirements.txt`
