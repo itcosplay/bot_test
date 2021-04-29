@@ -1,8 +1,8 @@
 Testing defferent bot's ability
--
+=
 
 Virtual env and requirements
-=
+-
 создать виртуальное окружение:  
 `python -m venv venv`
 
