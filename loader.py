@@ -7,3 +7,5 @@ from data import config
 bot = Bot(token=config.BOT_TOKEN, parse_mode=ParseMode.HTML)
 
 dp = Dispatcher(bot)
+
+#test comment!
